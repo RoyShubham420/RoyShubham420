@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    color: red;
+    font-family: Georgia;
+    font-size: 20px;
+  }
+
+  p {
+      text-align: left;
+      color: black;
+      font-family:verdana;
+  }
+  
+  li {
+    font-family:verdana;
+    color: black;
+  }
+
+  form {
+      text-align:center;
+    font-family:verdana;
+    color: black;
+  }
+
+  table{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2 {
+      text-align: center;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  h4 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

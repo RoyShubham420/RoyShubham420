@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"work experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title":"Product Manager",
+			"Company":"Directi-Zeta Suite",
+			"Domain":"Fintech",
+			"Tenure":"Feb 2021 to Jul 2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title":"Associate Product Manager",
+			"Company":"Byju's",
+			"Domain":"Edutech",
+			"Tenure":"Aug 2020 to Feb 2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Senior Analyst",
+			"Company":"Bain & Company",
+			"Domain":"Management Consulting",
+			"Tenure":"Jun 2019 to Aug 2020"
+		},
+		{
+			"Title": "Founder",
+			"Company":"An Ivy Dream",
+			"Domain":"Edutech",
+			"Tenure":"Mar 2020 to Aug 2022"
 		}
 	]
 }
