@@ -1,0 +1,28 @@
+{
+	"work experience": [
+		{
+			"Title":"Product Manager",
+			"Company":"Directi-Zeta Suite",
+			"Domain":"Fintech",
+			"Tenure":"Feb 2021 to Jul 2022"
+		},
+		{
+			"Title":"Associate Product Manager",
+			"Company":"Byju's",
+			"Domain":"Edutech",
+			"Tenure":"Aug 2020 to Feb 2021"
+		},
+		{
+			"Title": "Senior Analyst",
+			"Company":"Bain & Company",
+			"Domain":"Management Consulting",
+			"Tenure":"Jun 2019 to Aug 2020"
+		},
+		{
+			"Title": "Founder",
+			"Company":"An Ivy Dream",
+			"Domain":"Edutech",
+			"Tenure":"Mar 2020 to Aug 2022"
+		}
+	]
+}
